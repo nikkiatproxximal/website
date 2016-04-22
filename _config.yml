@@ -99,7 +99,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: ""
 
 syntax-highlight: True
 
@@ -120,7 +120,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/planets.png"
 
 ###########
 # Contact #
@@ -137,7 +137,7 @@ email: "info@proxximal.com"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Nikki likes to learn."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/author2.png"
 
 ##################
 # Social Buttons #
