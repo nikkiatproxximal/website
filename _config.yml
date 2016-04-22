@@ -111,10 +111,10 @@ events:
   - image: "/img/timeline/planet.png"
     date: "1896"
     description: "Lev Vygotsky born"
-  - image: "/img/timeline/founded.jpg"
+  - image: "/img/timeline/founded.png"
     date: "April 2014"
     description: "Proxximal founded"
-  - image: "/img/timeline/comet.jpg"
+  - image: "/img/timeline/comet.png"
     date: "Coming Soon"
     description: "Launch day!"
 
