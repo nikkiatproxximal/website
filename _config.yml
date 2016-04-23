@@ -49,13 +49,14 @@ background-img: ""
 
 dynamic-typing: True
 shuffle: False # Shuffle the lines.
-loop: False
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
+loop: True
+loop-count: 2 # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Get in the zone."
+  - text: "Get in the learning zone."
 
 me-img: "/img/rocket.png"
 
