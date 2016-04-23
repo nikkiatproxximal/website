@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Proxximal"
 title: "{ Proxximal }"
-description: "Proxximal: Your Personalized Learning Guide."
+description: "Proxximal: Your Learning Guide."
 keywords: "vygotsky, proxximal, bot, jekyll, personalization"
 favicon: "/img/favicon.ico"
 
@@ -49,7 +49,7 @@ background-img: ""
 
 dynamic-typing: True
 shuffle: False # Shuffle the lines.
-loop: True
+loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
@@ -97,7 +97,7 @@ google-plus-share: True
 tumblr-share: True
 pinterest-share: True
 pocket-share: True
-vkontakte-share: True
+vkontakte-share: False
 
 disqus-shortname: ""
 
@@ -112,7 +112,7 @@ events:
     date: "1896"
     description: "Lev Vygotsky born"
   - image: "/img/timeline/founded.png"
-    date: "April 2014"
+    date: "October 2015"
     description: "Proxximal founded"
   - image: "/img/timeline/comet.png"
     date: "Coming Soon"
@@ -147,7 +147,7 @@ social:
   - title: "facebook"
     url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/proxximal"
   - title: "github"
     url: "https://github.com/proxximal"
   - title: "rss"
@@ -157,7 +157,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+404-img: "/img/404planet.png"
 
 ################################################################################
 
