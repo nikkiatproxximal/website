@@ -52,7 +52,7 @@ shuffle: False # Shuffle the lines.
 loop: True
 loop-count: 2 # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
-start-delay: 200
+start-delay: 150
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Get in the zone."
@@ -137,7 +137,7 @@ email: "info@proxximal.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Nikki is the co-founder of Proxximal. She likes to climb trees, fly her drone, read Russian poetry, and, of course, design learning experiences."
+author_blurb: "Nikki is the co-founder of Proxximal. She likes to fly her drone, climb trees (often to retrieve her drone), and, of course, design learning experiences."
 author_blurb_image: "/img/author2.png"
 
 ##################
